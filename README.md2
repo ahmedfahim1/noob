@@ -13,4 +13,7 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone 
+git clone  https://github.com/ahmedfahim1/noob
+cd noob
+chmod +x *
+python2 noob.py
